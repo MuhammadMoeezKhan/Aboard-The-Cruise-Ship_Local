@@ -1,5 +1,17 @@
 # Aboard-The-Cruise-Ship_Local
 
+Created an Android Full-Stack App for Cruise companies to efficiently manage, track, manipulate, and share all Information for the company's Cruises!
+
+Utilized:
+- The SQLiteOpenHelper Android interface 
+- The SQLiteDatabase Android class <br>
+
+To implement CRUD operations using SQL Queries, String.format() statements, Android Content Values, Android rawQuery Cursors, and SQLiteDatabase's delete() & update() functions with @Overriden implementations.
+
+Going on a Cruise! Use the App!
+<br>
+
+
 ### Gif#1: Add A New Passenger To The Cruise
 #### By creating an SQLite Writeable database instance, the app collects user entered data and add to the connected SQLite Databases.
 <p align="center">
